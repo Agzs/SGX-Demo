@@ -30,3 +30,24 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+.vs/
+*.cbp
+*.depend
+bin/
+obj/
+.exe
+*.layout
+.layout
+
+Debug/
+ipch/
+*.db
+stdafx.h
+stdafx.cpp
+targetver.h
+StdAfx.h
+StdAfx.cpp
+
+
